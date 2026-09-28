@@ -1,0 +1,21 @@
+#include <iostream>
+#include <string>
+using namespace std;
+ 
+int main() {
+    string a, b;
+    cin>>a>>b;
+    
+    if(a.length()>100 || b.length()>100){return 0;}
+    if(a.length()!=b.length()){return 0;}
+    
+    for(int i=0; i<a.length(); i++){
+        if(a[i]!=b[i]){
+            cout<<"1";
+        }else{
+            cout<<"0";
+        }
+    }
+    
+    return 0;
+}
