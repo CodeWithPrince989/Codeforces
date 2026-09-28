@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 3 |
+| 4 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [implementation](#implementation) (3)
 - [strings](#strings) (1)
 
@@ -22,6 +22,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 80A | [Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/80/A%20-%20Panoramix's%20Prediction/solution.cpp) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
 ### implementation
