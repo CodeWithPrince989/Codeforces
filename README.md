@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 5 |
+| 11 | 5 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (3)
 - [strings](#strings) (1)
 
@@ -42,6 +42,7 @@
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.cpp) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
+| 227B | [Effective Approach](https://codeforces.com/contest/227/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/227/B%20-%20Effective%20Approach/solution.cpp) |
 | 233A | [Perfect Permutation](https://codeforces.com/contest/233/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/233/A%20-%20Perfect%20Permutation/solution.cpp) |
 | 248A | [Cupboards](https://codeforces.com/contest/248/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/248/A%20-%20Cupboards/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
