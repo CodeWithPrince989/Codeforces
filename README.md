@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 5 |
+| 12 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
+- [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [implementation](#implementation) (10)
-- [math](#math) (3)
+- [implementation](#implementation) (11)
+- [math](#math) (4)
 - [strings](#strings) (1)
 
 ---
@@ -25,6 +25,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 80A | [Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/80/A%20-%20Panoramix's%20Prediction/solution.cpp) |
+| 352A | [Jeff and Digits](https://codeforces.com/contest/352/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/352/A%20-%20Jeff%20and%20Digits/solution.cpp) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
 ### constructive algorithms
@@ -46,6 +47,7 @@
 | 233A | [Perfect Permutation](https://codeforces.com/contest/233/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/233/A%20-%20Perfect%20Permutation/solution.cpp) |
 | 248A | [Cupboards](https://codeforces.com/contest/248/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/248/A%20-%20Cupboards/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
+| 352A | [Jeff and Digits](https://codeforces.com/contest/352/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/352/A%20-%20Jeff%20and%20Digits/solution.cpp) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
 ### math
@@ -55,6 +57,7 @@
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 233A | [Perfect Permutation](https://codeforces.com/contest/233/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/233/A%20-%20Perfect%20Permutation/solution.cpp) |
+| 352A | [Jeff and Digits](https://codeforces.com/contest/352/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/352/A%20-%20Jeff%20and%20Digits/solution.cpp) |
 
 ### strings
 
