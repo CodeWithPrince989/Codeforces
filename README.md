@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 6 |
+| 15 | 6 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (12)
+- [implementation](#implementation) (13)
 - [math](#math) (4)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -46,6 +46,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.cpp) |
@@ -72,6 +73,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 
 ---
