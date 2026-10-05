@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 6 |
+| 16 | 6 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (13)
 - [math](#math) (4)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -74,6 +74,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/43/A%20-%20Football/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/CodeWithPrince989/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 
 ---
