@@ -11,6 +11,7 @@ const int INF = 1e9;
 void solve() {
     int n;
     cin>>n;
+
     vector<long long> arr(n);
     vector<long long> pref(n+1);
 
@@ -18,13 +19,14 @@ void solve() {
         cin>>arr[i];
         pref[i+1] = pref[i] + arr[i];
     }
+
     int q;
     cin>>q;
     for(int i=0; i<q; i++){
         int l, r;
         cin>>l>>r;
-        long long sum = pref[r] - pref[l - 1]; 
-        cout<<sum<<endl;
+        long long sum = pref[r] - pref[l-1];
+        cout<<sum<<endl; 
     }
 }
 
